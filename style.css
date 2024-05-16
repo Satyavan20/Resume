@@ -1,0 +1,15 @@
+
+h3{
+  text-decoration: underline;
+}
+span{
+  font-weight: bold;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+.tech{
+  display: flex;
+}
